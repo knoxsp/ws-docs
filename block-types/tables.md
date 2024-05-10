@@ -1,4 +1,5 @@
 ## table
+
 | header 1 | header 2 |
 | -------- | -------- |
 | cell 1   | cell 2   |
